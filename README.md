@@ -1,10 +1,10 @@
 
-<h2>Hi 👋, I'm Sofia</h2>
+<h2>Hi, I'm Sofia!</h2>
 <h3>An aspiring Software Engineer and Data Science & Machine Learning enthusiast</h3>
 
-🌱 I’m currently learning **Data Science, Supervised & Unsupervised Machine Learning, Algorithm Analysis**
+🌱 I’m currently learning Data Science, Supervised & Unsupervised Machine Learning and Algorithm Analysis
 
-🎓 MSc Computer Science student at University of Eastern Finland 
+🎓 MSc Computer Science student at the University of Eastern Finland 
 
 📫 How to reach me: **vereshchagina.sofia@outlook.com**
 
@@ -20,17 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofi388&show_icons=true&locale=en&layout=compact" alt="sofi388" /></p>
 
-<!--
-**sofi388/sofi388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
