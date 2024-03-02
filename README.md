@@ -2,7 +2,7 @@
 <h2>Hi, I'm Sofia!</h2>
 <h3>An aspiring Software Engineer and Data Science & Machine Learning enthusiast</h3>
 
-🌱 I’m currently learning Data Science, Supervised & Unsupervised Machine Learning, and Backend Development. Also, I'm currently researching the problem of giving nutrition recommendations using Deep Bayesian Inference
+🌱 I’m currently learning Data Science, Supervised & Unsupervised Machine Learning, and Backend Development. Also, I'm currently researching the field of nutrition recommendations using Deep Bayesian Inference
 
 🎓 MSc Computer Science student at the University of Eastern Finland 
 
