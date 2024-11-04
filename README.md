@@ -8,7 +8,7 @@
 
 📫 How to reach me: **vereshchagina.sofia@outlook.com**
 
-My CV: [CV](https://drive.google.com/file/d/1Qt3OE9Y64SkgEcd7WhTAyLrPGcRpGqai/view?usp=sharing)
+My CV: [CV](https://drive.google.com/file/d/1955Zhj-lkQxAhPN-i2QyBRzO88K1V11W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
