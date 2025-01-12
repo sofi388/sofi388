@@ -2,7 +2,7 @@
 <h2>Hi, I'm Sofia!</h2>
 <h3>An aspiring Software Engineer and Data Science & Machine Learning enthusiast</h3>
 
-🌱 I am currently studying Natural Language Processing, Deep Learning, and Probabilistic Machine Learning. In addition, I am conducting research on nutrition recommendations through the application of Probabilistic Machine Learning and Data Synthesis.
+🌱 I'm currently researching the influence of genotype on responses to dietary interventions, using machine learning to uncover patterns and predict effects on blood biomarkers and metabolic health.
 
 💻 When not busy with research, I tinker with Python Flask projects to level up my backend dev skills and occasionally crash hackathons, seminars or other events.
 
